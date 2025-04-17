@@ -5,6 +5,8 @@ import javafx.scene.control.*;
 import model.Pokemon;
 import util.PokeAPI;
 
+import java.awt.*;
+
 public class PokemonController {
 
     @FXML private TextField searchField;
